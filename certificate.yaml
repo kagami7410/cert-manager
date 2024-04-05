@@ -9,6 +9,6 @@ spec:
     name: acme-issuer
     kind: ClusterIssuer
   dnsNames:
-      - leakedgyals.com
       - jenkins.sujangcloud.uk
+      - leakedgyals.com
       - futakai.com
