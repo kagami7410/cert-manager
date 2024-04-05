@@ -10,5 +10,5 @@ spec:
     kind: ClusterIssuer
   dnsNames:
       - leakedgyals.com
-      - sujangcloud.uk
+      - jenkins.sujangcloud.uk
       - futakai.com
