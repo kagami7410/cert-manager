@@ -9,5 +9,6 @@ spec:
     name: acme-issuer
     kind: ClusterIssuer
   dnsNames:
-      - sujangcloud.uk
+      - jenkins.sujangcloud.uk
       - leakedgyals.com
+      - vault.sujangcloud.uk
