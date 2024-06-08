@@ -14,3 +14,4 @@ spec:
       - vault.sujangcloud.uk
       - kiali.sujangcloud.uk
       - grafana.sujangcloud.uk
+      - prometheus.sujangcloud.uk
